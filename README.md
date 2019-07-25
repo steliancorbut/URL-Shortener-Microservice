@@ -8,7 +8,7 @@
 
 To begin using this app, choose one of the following options to install/get started:
 * [Download the latest github repo archive](https://github.com/steliancorbut/parse-request-header)
-* Clone the repo: `git clone https://github.com/steliancorbut/parse-request-header.git`
+* Clone the repo: `git clone https://github.com/steliancorbut/URL-Shortener-Microservice.git`
 
 ## Usage
 
