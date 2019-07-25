@@ -1,8 +1,8 @@
-# [Request Header Parser Microservice](https://golden-cathedral.glitch.me/)
+# [URL Shortener Microservice](https://github.com/steliancorbut/URL-Shortener-Microservice/)
 
 ## Preview
 
-**[View Live Preview](https://golden-cathedral.glitch.me/)**
+**[View Live Preview](https://buttered-tea.glitch.me/)**
 
 ## Download and Installation
 
@@ -22,10 +22,9 @@ to run local/develop
 
 #### Example Usage
 
-- input url in browser `[base url]/api/whoami` and will get an output like 
-- example Output `{"ipaddress":"159.20.14.100","language":"en-US,en;q=0.5",
-"software":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0"}` 
+- input url in browser `[project_url]/api/shorturl/new` and will get an output in JSON like 
+- example Output `{"original_url":"www.google.com","short_url":1}` 
 
 ## Copyright and License
 
-Code released under the [MIT](https://github.com/steliancorbut/parse-request-header/blob/master/LICENSE) license.
+Code released under the [MIT](https://github.com/steliancorbut/URL-Shortener-Microservice/blob/master/LICENSE) license.
