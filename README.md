@@ -15,6 +15,8 @@ To begin using this app, choose one of the following options to install/get star
 After download/unzip/installation, in resulted folder run:
 - `npm install` for node_modules. (Node.js must exist)
 
+install MongoDB
+
 to run local/develop
 - `node server.js` and the server will listen at http://localhost:3000
 - in browser access http://localhost:3000 
