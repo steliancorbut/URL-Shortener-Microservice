@@ -24,8 +24,11 @@ to run local/develop
 
 #### Example Usage
 
-- input url in browser `[project_url]/api/shorturl/new` and will get an output in JSON like 
-- example Output `{"original_url":"www.google.com","short_url":1}` 
+- fill the input field with an url and press "POST URL" => in browser a new page will open `[project_url]/api/shorturl/new` and will get an output in JSON like 
+- example Output `{"original_url":"www.google.com","short_url":1}` and this object will be stored in MongoDB
+
+- conversely, input url in browser `[project_url]/api/shorturl/1` (the "short_url" number) and will redirect to the "original_url" (www.google.com)
+
 
 ## Copyright and License
 
